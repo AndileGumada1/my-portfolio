@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'E-Commerce',
+    title: 'Student Management Application',
     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
     image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
+    tags: ['Spring-Boot', 'Thymeleaf', 'MySQL'],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://glacial-reaches-31207.herokuapp.com',
     id: 1,
   },
   {
@@ -44,3 +44,5 @@ export const TimeLineData = [
   { year: 2021, text: 'Worked as a Junior Java Developer for XgileIT at Randburg', },
   { year: 2022, text: 'Started doing online tutoring for School of IT from Cape Town , teaching Java, MySQL , React and more', },
 ];
+
+//b9a4ec2992efe8:dbbd8437@us-cdbr-east-06.cleardb.net/heroku_c5006a34d63fc1a?reconnect=true
